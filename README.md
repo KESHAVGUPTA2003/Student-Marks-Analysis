@@ -15,7 +15,7 @@ The Student Marks Analysis project aims to provide insights into the performance
 - **Python**: The primary programming language used for data analysis and visualization.
 - **Pandas**: A powerful library for data manipulation and analysis.
 - **NumPy**: A library for numerical operations and handling large datasets.
-- **Matplotlib and Seaborn**: Libraries for creating static, animated, and interactive visualizations.
+- **Matplotlib and Seaborn**: Libraries for creating animated, and interactive visualizations.
 
 ### Steps Involved
 
